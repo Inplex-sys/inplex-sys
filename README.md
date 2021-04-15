@@ -21,4 +21,4 @@
 ![img](https://yt3.ggpht.com/ytc/AAUvwng6sD3mxWpBgl4_FwHXqAHfnlVFQbElk4HDmakG6g=s176-c-k-c0x00ffffff-no-rj-mo)
 ![img](https://yt3.ggpht.com/ytc/AAUvwngnYp1Kuu_PN255KM3xXdCXfqhmmHHDBZ7cvJwZFQ=s176-c-k-c0x00ffffff-no-rj-mo)
 
-- 🔥 Mon site https://omega-project.cz/
+🔥 Mon site https://omega-project.cz/
