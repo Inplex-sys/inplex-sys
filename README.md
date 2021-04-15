@@ -11,9 +11,8 @@
 ##### + 3 autres éléments
 
 ## Pen-testing
-<img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo-300x300.png" width="48px" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" width="89px" hspace="20"><img src="https://portswigger.net/content/images/logos/favicon.ico" width="48px" hspace="20">
+<img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo-300x300.png" width="48px" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" width="89px" hspace="20"><img src="https://www.maltego.com/favicon.ico" width="48px" hspace="20"><img src="https://portswigger.net/content/images/logos/favicon.ico" width="48px" hspace="20">
 ##### + 48 autres éléments
-
 ## Administration système & réseau
 <img src="http://pngimg.com/uploads/linux/small/linux_PNG21.png" width="48px" hspace="20"><img src="https://user-images.githubusercontent.com/3083270/41351027-1a15f418-6ee3-11e8-8c96-df70c658e39d.png" width="48px" hspace="20">
 
