@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Dévloppement 
 ![img](https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png?raw=true)
