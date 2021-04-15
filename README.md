@@ -11,7 +11,7 @@
 ##### + 3 autres éléments
 
 ## Pen-testing
-<img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo-300x300.png" width="48px" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" style="border-radius: 5px;" width="89px" hspace="20">
+<img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo-300x300.png" width="48px" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" width="89px" hspace="20"><img src="https://portswigger.net/content/images/logos/favicon.ico" width="48px" hspace="20">
 ##### + 48 autres éléments
 
 ## Administration système & réseau
