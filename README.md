@@ -18,4 +18,4 @@
 
 ##### + 3 autres éléments
 
-![Profile views](https://gpvc.arturio.dev/inplex-sys)
+![Nombres de vues](https://gpvc.arturio.dev/inplex-sys)
