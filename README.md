@@ -21,8 +21,6 @@
 
 ##### + 3 autres éléments
 
-<center>
-    [![Community](https://discordapp.com/api/guilds/821649812058275840/widget.png?style=banner2)](https://discord.gg/NapM3Xe6)
- </center>
+[![Community](https://discordapp.com/api/guilds/821649812058275840/widget.png?style=banner2)](https://discord.gg/NapM3Xe6)
 
 ![Nombres de vues](https://gpvc.arturio.dev/inplex-sys)
