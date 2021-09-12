@@ -20,6 +20,9 @@ const Inplex = {
   <a href="https://discord.gg/NapM3Xe6">
     <img src="https://discordapp.com/api/guilds/821649812058275840/widget.png?style=banner2">
   </a>
+  <a href="https://steamcommunity.com/id/Inplex-sys/">
+    <img src="https://user-images.githubusercontent.com/69421356/132981437-61fa4041-1502-462e-8452-3bf55ba5da3f.png">
+  </a>
  </center>
 
 ![Nombres de vues](https://gpvc.arturio.dev/inplex-sys)
