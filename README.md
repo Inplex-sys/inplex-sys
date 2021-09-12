@@ -23,8 +23,8 @@ const Inplex = {
 
 
 <center><h2>📌 Actual Projects</h2></center>
-<a href="https://omega-project.cz/?from=github.com">Ʊmega Project</a><br>
-<a href="https://over-spam.space/?from=github.com">OverSpam</a>
+    <p>- <a href="https://omega-project.cz/?from=github.com">Ʊmega Project</a></p>
+    <p>- <a href="https://over-spam.space/?from=github.com">OverSpam</a></p>
 
 <center><h2>📞 Contact Me</h2></center>
 <center>
