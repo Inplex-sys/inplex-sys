@@ -25,13 +25,13 @@ const Inplex = {
 <img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true">
 
 <center><h2>📌 Actual Projects</h2></center>
-    <p>- <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
+    <p><img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
         <a href="https://omega-project.cz/?from=github.com">
             Ʊmega Project
         </a>
     </p>
     <h6 style="font-size: 10px;">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
-    <p>- <img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
+    <p><img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
         <a href="https://over-spam.space/?from=github.com">
             OverSpam
         </a>
