@@ -18,6 +18,9 @@ const Inplex = {
 }
 ```
 
+<center><h2>Welcome to my profile</h2></center>
+<img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
+
 <center>
   <a href="https://discord.gg/NapM3Xe6">
     <img src="https://discordapp.com/api/guilds/821649812058275840/widget.png?style=banner2">
