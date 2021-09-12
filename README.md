@@ -23,8 +23,16 @@ const Inplex = {
 
 
 <center><h2>📌 Actual Projects</h2></center>
-    <p>- <img width="15" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png"><a href="https://omega-project.cz/?from=github.com">Ʊmega Project</a></p>
-    <p>- <img width="15" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png"><a href="https://over-spam.space/?from=github.com">OverSpam</a></p>
+    <p>- <img width="15" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&emsp;
+        <a href="https://omega-project.cz/?from=github.com">
+            Ʊmega Project
+        </a>
+    </p>
+    <p>- <img width="15" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&emsp;
+        <a href="https://over-spam.space/?from=github.com">
+            OverSpam
+        </a>
+    </p>
 <center><h2>📞 Contact Me</h2></center>
 <center>
   <a href="https://discord.gg/NapM3Xe6">
