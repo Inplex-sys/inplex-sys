@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/821729876150976514/886342521029021726/banner.png">
+<img style="border-radius: 5px;" src="https://cdn.discordapp.com/attachments/821729876150976514/886342521029021726/banner.png">
 
 ```javascript
 const Inplex = {
