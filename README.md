@@ -26,5 +26,3 @@ const Inplex = {
     <img src="https://user-images.githubusercontent.com/69421356/132981437-61fa4041-1502-462e-8452-3bf55ba5da3f.png">
   </a>
  </center>
-
-![Nombres de vues](https://gpvc.arturio.dev/inplex-sys)
