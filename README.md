@@ -1,4 +1,4 @@
-<center><h1>Welcome to my profile</h1></center>
+<center><h1>🎊 Welcome to my profile 🎊</h1></center>
 
 <img style="border-radius: 5px;" src="https://user-images.githubusercontent.com/69421356/132981492-eb1ab118-5e77-4a67-adee-49f6b6e676fe.png">
 
@@ -18,7 +18,7 @@ const Inplex = {
 }
 ```
 
-<center><h2>Welcome to my profile</h2></center>
+<center><h2>🥇 Trophies 🥇</h2></center>
 <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
 
 <center>
