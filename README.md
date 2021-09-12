@@ -30,13 +30,13 @@ const Inplex = {
             Ʊmega Project
         </a>
     </p>
-    <small>An admin panel for garry's mod, scraper, proxies, online compiler ...</small>
+    <p style="font-size: 10px;">An admin panel for garry's mod, scraper, proxies, online compiler ...</p>
     <p>- <img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
         <a href="https://over-spam.space/?from=github.com">
             OverSpam
         </a>
     </p>
-    <small>An advenced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</small>
+    <p style="font-size: 10px;">An advenced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</p>
     
     
 <center><h2>📞 Contact Me</h2></center>
