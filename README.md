@@ -28,12 +28,12 @@ const Inplex = {
     <p>- <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
         <a href="https://omega-project.cz/?from=github.com">
             Ʊmega Project
-        </a> An admin panel for garry's mod, scraper, proxies, online compiler ...
+    </a> <small>An admin panel for garry's mod, scraper, proxies, online compiler ...</small>
     </p>
     <p>- <img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
         <a href="https://over-spam.space/?from=github.com">
             OverSpam
-    </a> An advenced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot
+    </a> <small>An advenced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</small>
     </p>
 <center><h2>📞 Contact Me</h2></center>
 <center>
