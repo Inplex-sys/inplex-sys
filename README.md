@@ -40,7 +40,7 @@ const Inplex = {
 
 <center><h2>📃 Press</h2></center>
   <a href="https://discord.gg/Af5WYCMM">
-    <img src="https://discord.com/api/guilds/821649812058275840/widget.json">
+    <img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2">
   </a> 
     
 <center><h2>📞 Contact Me</h2></center>
