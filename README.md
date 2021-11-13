@@ -1,6 +1,6 @@
 <center><h1>🌠 Welcome to my profile</h1></center>
 
-<img style="border-radius: 5px;" src="https://user-images.githubusercontent.com/69421356/132981492-eb1ab118-5e77-4a67-adee-49f6b6e676fe.png">
+<img style="border-radius: 5px;" src="https://cdn.discordapp.com/attachments/822589448143110174/909079420361396264/banner.png">
 
 ```javascript
 const Inplex = {
