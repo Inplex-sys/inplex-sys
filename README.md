@@ -45,7 +45,7 @@ const Inplex = {
     
 <center><h2>📞 Contact Me</h2></center>
 <center>
-  <a href="https://discord.com/users/497300258577973248">
+  <a href="https://discord.com/users/821649457992040478">
     <img src="https://discord.c99.nl/widget/theme-1/821649457992040478.png" height="75">
   </a>
   <a href="https://steamcommunity.com/id/Inplex-sys/">
