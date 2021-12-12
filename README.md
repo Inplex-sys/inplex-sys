@@ -1,7 +1,6 @@
 <center><h1>🚀 Welcome to my profile</h1></center>
 
-<div style="border-radius: 6px!important;">
-    <img src="https://cdn.discordapp.com/attachments/822589448143110174/909079420361396264/banner.png">
+<div style="background: url(https://cdn.discordapp.com/attachments/822589448143110174/909079420361396264/banner.png); border-radius:6px!important">
 </div>
 
 ```javascript
