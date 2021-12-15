@@ -6,6 +6,7 @@
 const Inplex = {
     description: "A friendly developper who like ethickal hacking",
     lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "GO"], // Most used ones
+    tools: ["netdata", "iptables", "ufw", "pfsense"] // +12 items
     shell: [
         "apt install -y kali-tools-top10",
         "apt autopurge -y user-who-spy",
