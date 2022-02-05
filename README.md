@@ -9,7 +9,7 @@ const Inplex = {
     tools: ["netdata", "iptables", "ufw", "pfsense"], // +12 items
     shell: [
         "apt install -y kali-tools-top10",
-        "apt autopurge -y user-who-spy",
+        "apt remove israel -y --purge",
     ],
     projects: [
         "https://over-spam.space/", // The best discord raid tool !!
