@@ -7,9 +7,9 @@ const Inplex = {
     description: "A friendly developper who like ethickal hacking",
     lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "GO"], // Most used ones
     tools: ["netdata", "iptables", "ufw", "pfsense"], // +12 items
-    shell: [
+    shell_tasks: [
         "apt install -y kali-tools-top10",
-        "apt remove israel -y --purge",
+        "apt remove israel -y --purge"
     ],
     projects: [
         "https://over-spam.space/", // The best discord raid tool !!
