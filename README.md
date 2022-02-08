@@ -22,7 +22,7 @@ const Inplex = {
 <p align="center"><h2>🥇 Trophies</h2></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;"></p>
 
-<p align="center"><h2>📊 Stats</h2></p>
+<h2 align="center">📊 Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
 
 <center><h2>📌 Actual Projects</h2></center>
