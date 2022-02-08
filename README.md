@@ -47,7 +47,7 @@ const Inplex = {
 <center><h2>📞 Contact Me</h2></center>
 <center>
   <a href="https://discord.com/users/821649457992040478">
-    <img src="https://discord.c99.nl/widget/theme-1/821649457992040478.png" height="75">
+    <img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478">
   </a>
   <a href="https://steamcommunity.com/id/Inplex-sys/">
     <img src="https://user-images.githubusercontent.com/69421356/132981437-61fa4041-1502-462e-8452-3bf55ba5da3f.png">
