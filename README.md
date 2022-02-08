@@ -44,12 +44,8 @@ const Inplex = {
     <img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2">
   </a> 
     
-<center><h2>📞 Contact Me</h2></center>
-<center>
-  <a href="https://discord.com/users/821649457992040478">
+<center><h2>📞 Discord</h2></center>
+
+<a href="https://discord.com/users/821649457992040478" align="center">>
     <img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478">
-  </a>
-  <a href="https://steamcommunity.com/id/Inplex-sys/">
-    <img src="https://user-images.githubusercontent.com/69421356/132981437-61fa4041-1502-462e-8452-3bf55ba5da3f.png">
-  </a>
- </center>
+</a>
