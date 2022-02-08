@@ -23,7 +23,7 @@ const Inplex = {
 <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
 
 <center><h2>📊 Stats</h2></center>
-<img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
 
 <center><h2>📌 Actual Projects</h2></center>
     <p><img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
@@ -44,7 +44,7 @@ const Inplex = {
     <img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2">
   </a> 
     
-<center><h2>📞 Discord</h2></center>
+<p align="center"><h2>📞 Discord</h2></p>
 
 <a href="https://discord.com/users/821649457992040478">
     <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478"></p>
