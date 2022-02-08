@@ -1,4 +1,4 @@
-<p align="center"><h1>🚀 Welcome to my profile</h1></p>
+<h1 align="center">🚀 Welcome to my profile</h1>
 
 <img src="https://cdn.discordapp.com/attachments/822589448143110174/919551736958554172/banner.png">
 
@@ -41,10 +41,10 @@ const Inplex = {
     </p>
     <h6 style="font-size: 10px;">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
 
-<center><h2>📃 Press</h2></center>
-  <a href="https://discord.gg/Af5WYCMM">
-    <img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2">
-  </a> 
+<h2 align="center">📃 Press</h2></center>
+<a href="https://discord.gg/Af5WYCMM">
+    <p align="center"><img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2"></p>
+</a> 
     
 <h2 align="center">📞 Discord</h2>
 
