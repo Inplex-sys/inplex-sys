@@ -46,6 +46,6 @@ const Inplex = {
     
 <center><h2>📞 Discord</h2></center>
 
-<a href="https://discord.com/users/821649457992040478" align="center">>
-    <img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478">
+<a href="https://discord.com/users/821649457992040478">
+    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478"></p>
 </a>
