@@ -5,7 +5,7 @@
 ```javascript
 const Inplex = {
     description: "A friendly developper who like ethickal hacking",
-    lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "GO"], // Most used ones
+    lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
     tools: ["netdata", "iptables", "ufw", "pfsense"], // +12 items
     shell_tasks: [
         "apt install -y kali-tools-top10",
