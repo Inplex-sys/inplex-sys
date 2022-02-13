@@ -27,7 +27,7 @@ const Inplex = {
 <h2 align="center">📊 Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
 
-<center><h2>📌 Actual Projects</h2></center>
+<h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
         <a href="https://dark-utilities.xyz/?from=github.com">
