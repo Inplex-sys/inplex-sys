@@ -34,7 +34,7 @@ const Inplex = {
             Dark Utilities
         </a>
     </p>
-    <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
+    <h6 style="font-size: 10px;" align="center">An online botnet manager, game bypasses methods, usable on win64-32, linux64-32, python</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
         <a href="https://omega-project.cz/?from=github.com">
