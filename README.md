@@ -49,9 +49,6 @@ const Inplex = {
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
-    <p align="center" >
-        <a href="https://www.digitalocean.com/?refcode=03aa3e7efe5a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
-    </p>
 <h2 align="center">📃 Press</h2></center>
 <a href="https://discord.gg/WZjRmUknHr">
     <p align="center"><img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2"></p>
