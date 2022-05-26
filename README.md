@@ -59,5 +59,3 @@ const Inplex = {
 <a href="https://discord.com/users/821649457992040478">
     <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478"></p>
 </a>
-
-<img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke">
