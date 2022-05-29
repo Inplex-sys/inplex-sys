@@ -7,7 +7,7 @@ const Inplex = {
     description: "A friendly developper who like ethickal hacking",
     lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
     tools: ["netdata", "iptables", "ufw", "pfsense", "grafana"], // +12 items
-    apps: ["openresty", "php-fpm", "mariadb", ""]
+    apps: ["openresty", "php-fpm", "mariadb"],
     tasks: [
         "apt install -y kali-tools-top10",
         "apt remove israel total-energie nato -y --purge"
