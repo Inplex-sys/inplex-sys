@@ -6,15 +6,16 @@
 const Inplex = {
     description: "A friendly developper who like ethickal hacking",
     lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
-    tools: ["netdata", "iptables", "ufw", "pfsense"], // +12 items
-    shell_tasks: [
+    tools: ["netdata", "iptables", "ufw", "pfsense", "grafana"], // +12 items
+    apps: ["openresty", "php-fpm", "mariadb", ""]
+    tasks: [
         "apt install -y kali-tools-top10",
-        "apt remove israel -y --purge"
+        "apt remove israel total-energie nato -y --purge"
     ],
     projects: [
-        "https://over-spam.space/", // The best discord raid tool !!
-        "https://omega-project.cz/", // The best gmod admin panel !!
         "https://dark-utilities.xyz" // A servers and computers manager, stress tests and crypto mining
+        "https://over-spam.space/", // The best discord raid tool !!
+        "https://omega-project.cz/" // The best gmod admin panel !!
     ]
 }
 ```
@@ -26,7 +27,7 @@ const Inplex = {
 
 <h2 align="center">📊 Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">/p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">/p>
 
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
