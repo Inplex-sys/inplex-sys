@@ -13,7 +13,7 @@ const Inplex = {
         "apt remove israel total-energie nato -y --purge"
     ],
     projects: [
-        "https://dark-utilities.xyz" // A servers and computers manager, stress tests and crypto mining
+        "https://dark-utilities.xyz", // A servers and computers manager, stress tests and crypto mining
         "https://over-spam.space/", // The best discord raid tool !!
         "https://omega-project.cz/" // The best gmod admin panel !!
     ]
