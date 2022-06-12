@@ -32,7 +32,7 @@ const Inplex = {
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
-        <a href="https://dark-utilities.pw/?from=github.com">
+        <a href="https://dark-utilities.pw/">
             Dark Utilities
         </a>
     </p>
