@@ -52,8 +52,8 @@ const Inplex = {
     </p>
     <h6 style="font-size: 10px;" align="center">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
 <h2 align="center">📃 Press</h2></center>
-<a href="https://discord.gg/WZjRmUknHr">
-    <p align="center"><img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2"></p>
+<a href="https://discord.gg/9jbvRBpj7b">
+    <p align="center"><img src="https://discord.com/api/guilds/987106192302166056/widget.png?style=banner2"></p>
 </a> 
     
 <h2 align="center">📞 Discord</h2>
