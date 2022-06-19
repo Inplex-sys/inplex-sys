@@ -14,8 +14,8 @@ const Inplex = {
     ],
     projects: [
         "https://dark-utilities.me", // A servers and computers manager, stress tests and crypto mining
-        "https://over-spam.space/", // The best discord raid tool !!
-        "https://omega-project.cz/" // The best gmod admin panel !!
+        "https://over-spam.space", // The best discord raid tool !!
+        "https://omega-project.cz" // The best gmod admin panel !!
     ]
 }
 ```
