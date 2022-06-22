@@ -26,9 +26,11 @@ const Inplex = {
 </p>
 
 <h2 align="center">📊 Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"></p>
-
+<div float="center">
+    <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true">
+    <img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
