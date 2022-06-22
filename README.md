@@ -27,8 +27,8 @@ const Inplex = {
 
 <h2 align="center">📊 Stats</h2>
 <div float="center">
-    <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true">
-    <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
+    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true">
+    <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📌 Actual Projects</h2>
