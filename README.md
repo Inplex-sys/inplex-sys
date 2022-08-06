@@ -51,8 +51,6 @@ const Inplex = {
     <p align="center"><img src="https://discord.com/api/guilds/989269147303166062/widget.png?style=banner3"></p>
 </a> 
     
-<h2 align="center">📞 Discord</h2>
+<h2 align="center">📞 Contact</h2>
 
-<a href="https://discord.com/users/987090879745519657">
-    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/989265944679436411"></p>
-</a>
+@Inplexsys on telegram
