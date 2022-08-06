@@ -38,7 +38,7 @@ const Inplex = {
             Dark Utilities
         </a>
     </p>
-    <h6 style="font-size: 10px;" align="center">An online botnet manager, game bypasses methods, usable on win64-32, linux64-32, python</h6>
+    <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
         <a href="https://omega-project.cz/?from=github.com">
@@ -46,13 +46,6 @@ const Inplex = {
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
-    <p align="center">
-        <img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
-        <a href="https://over-spam.space/?from=github.com">
-            OverSpam
-        </a>
-    </p>
-    <h6 style="font-size: 10px;" align="center">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
 <h2 align="center">📃 Press</h2></center>
 <a href="https://discord.gg/9jbvRBpj7b">
     <p align="center"><img src="https://discord.com/api/guilds/989269147303166062/widget.png?style=banner3"></p>
