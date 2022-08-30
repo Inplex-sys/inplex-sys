@@ -13,7 +13,7 @@ const Inplex = {
         "apt remove israel total-energie nato -y --purge"
     ],
     projects: [
-        "https://dark-utilities.me", // An IT infrastructure manager, cheap and easy to use !!
+        "https://dark-utilities.com", // An IT infrastructure manager, cheap and easy to use !!
         "https://over-spam.space", // The best discord raid tool !!
         "https://omega-project.cz" // The best gmod admin panel !!
     ]
@@ -34,23 +34,28 @@ const Inplex = {
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
-        <a href="https://dark-utilities.me/">
+        <a href="https://dark-utilities.com/">
             Dark Utilities
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
-        <a href="https://omega-project.cz/?from=github.com">
+        <a href="https://omega-project.io/">
             Ʊmega Project
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
-<h2 align="center">📃 Press</h2></center>
-<a href="https://discord.gg/9jbvRBpj7b">
-    <p align="center"><img src="https://discord.com/api/guilds/989269147303166062/widget.png?style=banner3"></p>
-</a> 
-    
+<h2 align="center">📃 Join Us</h2></center>
+<div float="center">
+    <a href="https://discord.gg/9jbvRBpj7b">
+        <img align="left" width="400" src="https://discord.com/api/guilds/989269147303166062/widget.png?style=banner3">
+    </a> 
+    <a href="https://t.me/+Pn2PmVtSR05mZjc0">
+        <img align="right" width="400" src="https://user-images.githubusercontent.com/69421356/187553684-d619455b-09db-41c0-af6f-a47126fd8018.png">
+    </a> 
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📞 Contact</h2>
 
 @Inplexsys on telegram
