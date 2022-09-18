@@ -48,8 +48,8 @@ const Inplex = {
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
 <h2 align="center">📃 Join Us</h2></center>
 <div float="center">
-    <a href="https://discord.gg/9jbvRBpj7b">
-        <img align="left" width="400" src="https://discord.com/api/guilds/989269147303166062/widget.png?style=banner3">
+    <a href="https://discord.gg/qUUAVrKmXU">
+        <img align="left" width="400" src="https://discord.com/api/guilds/1020310435892838503/widget.png?style=banner3">
     </a> 
     <a href="https://t.me/+Pn2PmVtSR05mZjc0">
         <img align="right" width="400" src="https://user-images.githubusercontent.com/69421356/187553684-d619455b-09db-41c0-af6f-a47126fd8018.png">
