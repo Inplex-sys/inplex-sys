@@ -33,14 +33,14 @@ const Inplex = {
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
-        <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
+        <img width="20" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png">&nbsp;
         <a href="https://dark-utilities.com/">
             Dark Utilities
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
     <p align="center">
-        <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
+        <img width="20" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">&nbsp;
         <a href="#">
             Texian (In Progress)
         </a>
@@ -52,6 +52,7 @@ const Inplex = {
             Ʊmega Project
         </a>
     </p>
+
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
 <h2 align="center">📃 Join Us</h2></center>
 <div float="center">
