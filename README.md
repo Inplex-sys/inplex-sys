@@ -52,7 +52,6 @@ const Inplex = {
             Ʊmega Project
         </a>
     </p>
-
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
 <h2 align="center">📃 Join Us</h2></center>
 <div float="center">
