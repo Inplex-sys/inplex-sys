@@ -40,6 +40,13 @@ const Inplex = {
     </p>
     <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
     <p align="center">
+        <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
+        <a href="#">
+            Texian (In Progress)
+        </a>
+    </p>
+    <h6 style="font-size: 10px;" align="center">A technical support tickets manager for schools and companies</h6>
+    <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
         <a href="https://omega-project.io/">
             Ʊmega Project
