@@ -7,15 +7,10 @@ const Inplex = {
     description: "A friendly developper who like ethickal hacking",
     lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
     tools: ["netdata", "iptables", "ufw", "pfsense", "grafana"], // +12 items
-    apps: ["openresty", "php-fpm", "mariadb", "mongofb", "redis", "memcached"], // +4 items
+    apps: ["openresty", "php-fpm", "mariadb", "mongodb", "redis", "memcached"], // +4 items
     tasks: [
         "apt install -y kali-tools-top10",
         "apt remove israel total-energie nato -y --purge"
-    ],
-    projects: [
-        "https://dark-utilities.com", // An IT infrastructure manager, cheap and easy to use !!
-        "https://over-spam.space", // The best discord raid tool !!
-        "https://omega-project.xyz" // The best gmod admin panel !!
     ]
 }
 ```
