@@ -34,8 +34,8 @@ const Inplex = {
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png">&nbsp;
-        <a href="https://dark-utilities.com/">
-            Dark Utilities
+        <a href="https://shorturl.at/fqrHS">
+            Ɗark Աtilities
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
@@ -48,7 +48,7 @@ const Inplex = {
     <h6 style="font-size: 10px;" align="center">A technical support tickets manager for schools and companies</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
-        <a href="https://omega-project.io/">
+        <a href="https://omega-project.xyz/">
             Ʊmega Project
         </a>
     </p>
