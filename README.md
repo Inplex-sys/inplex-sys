@@ -29,7 +29,7 @@ const Inplex = {
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png">&nbsp;
-        <a href="https://shorturl.at/fqrHS">
+        <a href="https://tinyurl.com/mw9exrur">
             Ɗark Աtilities
         </a>
     </p>
