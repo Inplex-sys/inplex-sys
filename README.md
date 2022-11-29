@@ -27,27 +27,27 @@ const Inplex = {
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📌 Actual Projects</h2>
-    <p align="center">
-        <img width="20" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png">&nbsp;
-        <a href="https://tinyurl.com/mw9exrur">
-            Ɗark Աtilities
-        </a>
-    </p>
-    <h6 style="font-size: 10px;" align="center">An online IT infrastructure manager, execute command on your IT infrastructure in one click</h6>
-    <p align="center">
-        <img width="20" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">&nbsp;
-        <a href="#">
-            Texian (In Progress)
-        </a>
-    </p>
-    <h6 style="font-size: 10px;" align="center">A technical support tickets manager for schools and companies</h6>
-    <p align="center">
-        <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
-        <a href="https://omega-project.xyz/">
-            Ʊmega Project
-        </a>
-    </p>
-    <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
+<div>
+<p>
+    <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png">
+    <h3>Ɗark Աtilities</h3>
+    <h4>An online IT infrastructure manager, execute command on your IT infrastructure in one click</h4>
+</p>
+<br>
+<hr>
+<p>
+    <img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
+    <h3 align="right">Texian</h3>
+    <h4 align="right">A technical support tickets manager for schools and companies</h4>
+</p>
+<br>
+<hr>
+<p>
+    <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">
+    <h3>Ʊmega Project</h3>
+    <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
+</p>
+</div>
 <h2 align="center">📃 Join Us</h2></center>
 <div float="center">
     <a href="https://discord.gg/qUUAVrKmXU">
@@ -59,5 +59,4 @@ const Inplex = {
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">📞 Contact</h2>
-<img src="https://lanyard-profile-readme.vercel.app/api/853030167458480138">
-@Inplexsys on telegram
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/853030167458480138">
