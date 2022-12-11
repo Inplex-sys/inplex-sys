@@ -3,11 +3,13 @@
 <img src="https://user-images.githubusercontent.com/69421356/175442177-0f05ce78-31a5-44db-a7e3-603f7e96050a.png">
 
 ```javascript
-{
-    Description: "A friendly developper who like ethickal hacking", 
-    MostUsedLangs: ["Python", "Php", "C++", "Go", "Perl", "NodeJS"],
-    Tools: ["netdata", "iptables", "pfsense", "grafana"],
-    servers: ["openresty", "mariadb", "mongodb", "redis", "memcached"]
+export default class Client {
+    constructor() {
+        this.Description = "A friendly developper who like ethickal hacking", 
+        this.MostUsedLangs = ["Python", "Php", "C++", "C", "Go", "Perl", "NodeJS"],
+        this.Tools = ["netdata", "iptables", "pfsense", "grafana"],
+        this.Servers = ["openresty", "mariadb", "mongodb", "redis", "memcached"]
+    }
 }
 ```
 
