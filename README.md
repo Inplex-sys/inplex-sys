@@ -41,7 +41,7 @@ export default class Client {
 <br>
 <hr>
 <p>
-    <a href="https://omega-project.cz/"><img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png"></a>
+    <a href="https://omega-project.xyz/"><img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png"></a>
     <h3>Ʊmega Project</h3>
     <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
 </p>
