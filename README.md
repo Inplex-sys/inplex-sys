@@ -3,15 +3,11 @@
 <img src="https://user-images.githubusercontent.com/69421356/175442177-0f05ce78-31a5-44db-a7e3-603f7e96050a.png">
 
 ```javascript
-const Inplex = {
-    description: "A friendly developper who like ethickal hacking",
-    lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
-    tools: ["netdata", "iptables", "ufw", "pfsense", "grafana"], // +12 items
-    servers: ["openresty", "php-fpm", "mariadb", "mongodb", "redis", "memcached"], // +4 items
-    tasks: [
-        "apt install -y kali-tools-top10",
-        "apt remove israel total-energie nato -y --purge"
-    ]
+{
+    Description: "A friendly developper who like ethickal hacking", 
+    MostUsedLangs: ["Python", "Php", "C++", "Go", "Perl", "NodeJS"],
+    Tools: ["netdata", "iptables", "pfsense", "grafana"],
+    servers: ["openresty", "mariadb", "mongodb", "redis", "memcached"]
 }
 ```
 
