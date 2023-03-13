@@ -23,7 +23,7 @@ export default class Client {
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <div float="center">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&amp;theme=dracula&amp;show_icons=true&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
@@ -37,7 +37,7 @@ export default class Client {
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 
 <div>
@@ -67,7 +67,7 @@ export default class Client {
 
 <h3 align="center">📃 Join Us</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <div float="center">
     <a href="https://discord.gg/qUUAVrKmXU">
@@ -82,7 +82,7 @@ export default class Client {
 
 <h3 align="center">📞 Contact</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <p align="center">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/853030167458480138">
