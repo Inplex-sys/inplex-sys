@@ -15,7 +15,7 @@ export default class Client {
 
 <h3 align="center">🥇 Trophies</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=8">
