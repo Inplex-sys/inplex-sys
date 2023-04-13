@@ -6,9 +6,9 @@
 export default class Client {
     constructor() {
         this.Description = "A friendly developper who like ethickal hacking",
-        this.MostUsedLangs = ["Python", "Php", "C++", "C", "Go", "Perl", "NodeJS"],
+        this.MostUsedLangs = ["Python", "Php", "Rust", "C", "Go", "Perl", "NodeJS"],
         this.Tools = ["netdata", "iptables", "pfsense", "grafana"],
-        this.Servers = ["openresty", "mariadb", "mongodb", "redis", "memcached"]
+        this.Servers = ["openresty", "mariadb", "mongodb", "redis", "caddy"]
     }
 }
 ```
