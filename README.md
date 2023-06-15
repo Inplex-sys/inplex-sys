@@ -65,21 +65,6 @@ export default class Client {
 <br><br>
 <br><br>
 
-<h3 align="center">📃 Join Us</h3>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
-</p>
-<div float="center">
-    <a href="https://discord.gg/qUUAVrKmXU">
-        <img align="left" width="400" src="https://discord.com/api/guilds/1020310435892838503/widget.png?style=banner3">
-    </a>
-    <a href="https://t.me/+Pn2PmVtSR05mZjc0">
-        <img align="right" width="400" src="https://user-images.githubusercontent.com/69421356/187553684-d619455b-09db-41c0-af6f-a47126fd8018.png">
-    </a>
-</div>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-
 <h3 align="center">📞 Contact</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
