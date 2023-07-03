@@ -41,24 +41,18 @@ export default class Client {
 </p>
 
 <div>
-    <p>
-        <a href="https://tinyurl.com/mw9exrur"><img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/192012503-4b9a25d3-86f3-4955-b040-572ab66e2bc7.png"></a>
-    <h3>Ɗark Աtilities</h3>
-    <h4>An online IT infrastructure manager, execute command on your IT infrastructure in one click</h4>
-    </p>
-    <br>
     <hr>
     <p>
         <a href="#"><img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png"></a>
     <h3 align="right">Texian</h3>
-    <h4 align="right">A technical support tickets manager for schools and companies</h4>
+    <h4 align="right">[Owner] A technical support tickets manager for schools and companies</h4>
     </p>
     <br>
     <hr>
     <p>
         <a href="https://omega-project.xyz/"><img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png"></a>
     <h3>Ʊmega Project</h3>
-    <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
+    <h4>[Owner] An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
     </p>
 </div>
 
