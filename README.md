@@ -41,6 +41,11 @@ export default class Client {
 </p>
 
 <div>
+    <p>
+        <a href="https://github.com/Inplex-sys/pc-auth"><img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692"></a>
+    <h3>PC Auth</h3>
+    <h4>[Owner] A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
+    </p>
     <hr>
     <p>
         <a href="#"><img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png"></a>
