@@ -18,7 +18,7 @@ export default class Client {
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=8">
+    <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&theme=dracula&margin-w=10&margin-h=15&column=10">
 </p>
 
 <h3 align="center">📊 Stats</h3>
@@ -41,23 +41,24 @@ export default class Client {
 </p>
 
 <div>
+    <br><br>
     <p>
-        <a href="https://github.com/Inplex-sys/pc-auth"><img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692"></a>
-    <h3>PC Auth</h3>
+        <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692">
+    <h3><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
     <h4>[Owner] A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
     <hr>
     <p>
-        <a href="#"><img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png"></a>
-    <h3 align="right">Texian</h3>
-    <h4 align="right">[Owner] A technical support tickets manager for schools and companies</h4>
+        <img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
+        <h3 align="right"><a href="#">Texian</a></h3>
+        <h4 align="right">[Owner] A technical support tickets manager for schools and companies</h4>
     </p>
     <br>
     <hr>
     <p>
-        <a href="https://omega-project.xyz/"><img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png"></a>
-    <h3>Ʊmega Project</h3>
-    <h4>[Owner] An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
+        <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">
+        <h3><a href="https://omega-project.xyz/">Ʊmega Project</a></h3>
+        <h4>[Owner] An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
     </p>
 </div>
 
