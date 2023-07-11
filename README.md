@@ -43,6 +43,7 @@ export default class Client {
 <div>
     <br>
     <br>
+    <br>
     <p>
         <img width="100" align="right" src="https://avatars.githubusercontent.com/u/120763228?s=200&v=4">
         <h3 align="right"><a href="https://github.com/tria-group">Tria Group</a></h3>
