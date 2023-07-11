@@ -45,16 +45,16 @@ export default class Client {
     <br>
     <p>
         <img width="100" align="right" src="https://avatars.githubusercontent.com/u/120763228?s=200&v=4">
-        <h3><a href="https://github.com/tria-group">Tria Group</a></h3>
-        <h4>At Tria Group, we are passionate about pushing the boundaries of creativity within the gaming industry ...</h4>
+        <h3 align="right"><a href="https://github.com/tria-group">Tria Group</a></h3>
+        <h4 align="right">At Tria Group, we are passionate about pushing the boundaries of creativity within the gaming industry ...</h4>
     </p>
     <br>
     <hr>
     <br>
     <p>
         <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692">
-    <h3><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
-    <h4>A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
+        <h3><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
+        <h4>A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
     <hr>
     <p>
