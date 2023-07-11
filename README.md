@@ -27,7 +27,7 @@ export default class Client {
 </p>
 <div float="center">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&show_icons=false&theme=dark">
-    <img align="right" width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
 </div>
 
 <br><br>
