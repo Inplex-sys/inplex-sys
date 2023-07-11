@@ -26,7 +26,7 @@ export default class Client {
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <div float="center">
-    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&show_icons=false&theme=dark">
+    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&show_icons=false&theme=dark">
     <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
 </div>
 
