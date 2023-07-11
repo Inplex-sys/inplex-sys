@@ -41,24 +41,33 @@ export default class Client {
 </p>
 
 <div>
-    <br><br>
+    <br>
+    <br>
+    <p>
+        <img width="100" align="right" src="https://avatars.githubusercontent.com/u/120763228?s=200&v=4">
+        <h3><a href="https://github.com/tria-group">Tria Group</a></h3>
+        <h4>At Tria Group, we are passionate about pushing the boundaries of creativity within the gaming industry ...</h4>
+    </p>
+    <br>
+    <hr>
+    <br>
     <p>
         <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692">
     <h3><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
-    <h4>[Owner] A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
+    <h4>A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
     <hr>
     <p>
         <img width="100" align="right" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
         <h3 align="right"><a href="#">Texian</a></h3>
-        <h4 align="right">[Owner] A technical support tickets manager for schools and companies</h4>
+        <h4 align="right">A technical support tickets manager for schools and companies</h4>
     </p>
     <br>
     <hr>
     <p>
         <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">
         <h3><a href="https://omega-project.xyz/">Ʊmega Project</a></h3>
-        <h4>[Owner] An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
+        <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
     </p>
 </div>
 
