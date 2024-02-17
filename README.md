@@ -42,11 +42,16 @@ export default class Client {
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
-
 <div>
     <br>
     <br>
     <br>
+    <p>
+        <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/1df44418-23d8-43e1-8988-ae55f3d98b0b"/>
+        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">The Reverse Lab</a></h3>
+        <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations</h4>
+    </p>
+    <hr>
     <p>
         <img width="100" align="right" src="https://avatars.githubusercontent.com/u/120763228?s=200&v=4">
         <h3 align="right"><a href="https://github.com/tria-group">Tria Group</a></h3>
