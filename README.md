@@ -72,14 +72,15 @@ export default class Client {
         <h4 align="right">A technical support tickets manager for schools and companies</h4>
     </p>
     <br>
+    <!--
     <hr>
     <p>
         <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">
         <h3><a href="https://omega-project.xyz/">Ʊmega Project</a></h3>
         <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
     </p>
-</div>
-
+    </div>
+    -->
 <br><br>
 <br><br>
 
