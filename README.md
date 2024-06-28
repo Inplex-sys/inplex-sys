@@ -15,7 +15,7 @@ export default class Client {
 <h3 align="center">⚖️ Last Post</h3>
 
 ![test](https://github.com/Inplex-sys/inplex-sys/assets/69421356/20f61c7b-53b0-46de-89f3-1b0c6815abe2)
-<div align="center"><a href="#">Learn How Binance and Coinbase are centralizing cryptocurrncies</a></div>
+<div align="center"><a href="https://github.com/Inplex-sys/binance-coinbase-report">Learn How Binance and Coinbase are centralizing cryptocurrncies</a></div>
 
 <h3 align="center">🥇 Trophies</h3>
 <p align="center">
