@@ -2,9 +2,6 @@
 
 ![Untitled 1](https://github.com/Inplex-sys/inplex-sys/assets/69421356/4b5f4388-a813-4e74-b229-2c7d7981ab12)
 
-
-
-
 ```javascript
 export default class Client {
     constructor() {
@@ -15,6 +12,10 @@ export default class Client {
     }
 }
 ```
+<h3 align="center">⚖️ Last Post</h3>
+
+![test](https://github.com/Inplex-sys/inplex-sys/assets/69421356/20f61c7b-53b0-46de-89f3-1b0c6815abe2)
+<div align="center"><a href="#">Learn How Binance and Coinbase are centralizing cryptocurrncies</a></div>
 
 <h3 align="center">🥇 Trophies</h3>
 <p align="center">
