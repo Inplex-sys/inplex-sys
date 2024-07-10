@@ -56,7 +56,7 @@ export default class Client {
     <br>
     <p>
         <img width="100" align="right" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/8441719e-e233-439a-9778-43566230b711">
-        <h3><a href="#">Espnix</a></h3>
+        <h3><a href="https://github.com/Inplex-sys/espnix">Espnix</a></h3>
         <h4>An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips.</h4>
     </p>
     <hr>
