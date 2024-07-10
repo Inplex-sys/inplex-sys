@@ -50,14 +50,14 @@ export default class Client {
     <p>
         <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/1df44418-23d8-43e1-8988-ae55f3d98b0b"/>
         <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">The Reverse Lab</a></h3>
-        <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations</h4>
+        <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations.</h4>
     </p>
     <hr>
     <br>
     <p>
         <img width="100" align="right" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/8441719e-e233-439a-9778-43566230b711">
         <h3><a href="#">Espnix</a></h3>
-        <h4>An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips with a re-implementation of Busybox</h4>
+        <h4>An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips.</h4>
     </p>
     <hr>
     <p>
@@ -77,18 +77,9 @@ export default class Client {
     <p>
         <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
         <h3 align="right"><a href="#">Texian</a></h3>
-        <h4 align="right">A technical support tickets manager for schools and companies</h4>
+        <h4 align="right">A technical support tickets manager for schools and companies.</h4>
     </p>
     <br>
-    <!--
-    <hr>
-    <p>
-        <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">
-        <h3><a href="https://omega-project.xyz/">Ʊmega Project</a></h3>
-        <h4>An admin panel for garry's mod, scraper, proxies, online compiler ...</h4>
-    </p>
-    </div>
-    -->
 <br><br>
 <br><br>
 
