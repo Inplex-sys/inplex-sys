@@ -12,8 +12,6 @@ export default class Client {
 ```
 <h3 align="center">⚖️ Last Post</h3>
 
-![test](https://github-production-user-asset-6210df.s3.amazonaws.com/69421356/348473466-4c7bd042-6701-468f-8db7-bd2ebc638543.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240713T133315Z&X-Amz-Expires=300&X-Amz-Signature=a8fa44e5c3601df15709d6d97cfcc2149e39bdb878e60bb4777ceeea71961567&X-Amz-SignedHeaders=host&actor_id=69421356&key_id=0&repo_id=358100883)
-
 ![test](https://github.com/Inplex-sys/inplex-sys/assets/69421356/20f61c7b-53b0-46de-89f3-1b0c6815abe2)
 <div align="center"><a href="https://github.com/Inplex-sys/binance-coinbase-report">Learn How Binance and Coinbase are centralizing cryptocurrncies</a></div>
 
