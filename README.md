@@ -13,7 +13,9 @@ export default class Client {
 ```
 <h3 align="center">⚖️ Last Post</h3>
 
-![Sans titre 1](https://github.com/user-attachments/assets/8fdec480-fef2-4744-8b4b-b7f78e285c68)
+<a href="https://github.com/Inplex-sys/exodus-privacy-report">
+    <img src="https://github.com/user-attachments/assets/8fdec480-fef2-4744-8b4b-b7f78e285c68"/>
+</a>
 
 <div align="center"><a href="https://github.com/Inplex-sys/exodus-privacy-report">Learn How Exodus Centralized Servers Can Be A Danger</a></div>
 
