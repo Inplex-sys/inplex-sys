@@ -64,7 +64,7 @@ export default class Client {
     <hr>
     <p>
         <img width="100" align="left" src="https://github.com/user-attachments/assets/1627f5ca-1af6-48d9-83e2-7ebc6630a4db">
-        <h3><a href="https://github.com/Dark-Utilities/E2EDPS">E2EDPS</a></h3>
+        <h3><a href="https://github.com/E2EDPS/Research-Paper">E2EDPS</a></h3>
         <h4>E2EDPS is an HTTP based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
     </p>
     <br>
